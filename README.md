@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Juan Felipe Muñoz Cuartas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack-Developer;Systems+Engineering+Student;IA+and+Data+Engineering;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack-Developer;System+Engineering+Student;Data+and+IA;Competitive+Programmer" />
 </p>
 
 <p align="center"> 
@@ -23,13 +23,14 @@
 <br clear="right"/>
 
 ## 📬 Connect with Me
-
 <p align="center">
   <a href="mailto:juanfelipemunozcuartas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/JuanFe31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/juan-felipe-mu%C3%B1oz-8b1723274/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.link/nye329"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
+
+# 💪 Skills
 
 ## 🌍 Web
 
