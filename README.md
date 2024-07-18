@@ -1,5 +1,3 @@
-## 👋
-
 <h1 align="center">Hi! I'm Juan Felipe Muñoz Cuartas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -35,9 +33,9 @@
 
 ## 🌍 Web
 
-<p align="center">
+<p align="center" style="pointer-events: none;>
 <img src="https://img.shields.io/badge/Html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" style="pointer-events: none;"/>
-<img src="https://img.shields.io/badge/Css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
+<img src="https://img.shields.io/badge/Css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css"  />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
