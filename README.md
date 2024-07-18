@@ -32,20 +32,36 @@
   <a href="https://wa.link/nye329"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-## 🔧 Technologies & Tools
+## 🌍 Web
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1671AB.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-E6331A.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-000000.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6900.svg?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Snort-FF3A00.svg?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-FFDB58.svg?style=for-the-badge&logoColor=white" alt="John The Ripper" />
-  <img src="https://img.shields.io/badge/Owasp_ZAP-CC6699.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Firewall-FF4B32.svg?style=for-the-badge&logoColor=white" alt="Firewalls" />
-  <img src="https://img.shields.io/badge/Hashcat-20B2AA.svg?style=for-the-badge&logoColor=white" alt="Hashcat" />
-  <img src="https://img.shields.io/badge/Malware_Analysis-FFFF00.svg?style=for-the-badge&logoColor=black" alt="Malware Analysis" />
-  <img src="https://img.shields.io/badge/Intrusion_Detection_Systems-00FF00.svg?style=for-the-badge&logoColor=white" alt="IDS" />
+<img src="https://img.shields.io/badge/Html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
+<img src="https://img.shields.io/badge/Css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logoColor=white" alt="Axios" />
+<img src="https://img.shields.io/badge/Nest_JS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest (JS)" />
+<img src="https://img.shields.io/badge/Springboot-JAVA-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot (JAVA)" />
+</p>
+
+## 💻 SQL
+
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQLServer-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer" />
+</p>
+
+## 🤖 Datos e IA
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+## ⚡ Power Platform
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBi-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBi" />
+<img src="https://img.shields.io/badge/PowerApps-742774.svg?style=for-the-badge&logo=power-apps&logoColor=white" alt="PowerApps" />
+<img src="https://img.shields.io/badge/PowerAutomate-0089D6.svg?style=for-the-badge&logo=power-automate&logoColor=white" alt="PowerAutomate" />
+<img src="https://img.shields.io/badge/Sharepoint_Lists-0078D4.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Sharepoint Lists" />
+<img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </p>
