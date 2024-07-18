@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <!--
 **Juanfe31/Juanfe31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Juan Felipe Muñoz Cuartas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi! I'm Juan Felipe Muñoz Cuartas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack-Developer;Systems+Engineering+Graduate;IA and Data Engineering in Python;;Always+learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack-Developer;Systems+Engineering+Student;IA and Data Engineering in Python;Competitive Programmer" />
 </p>
 
 <p align="center"> 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source security projects.
 - 🤔 I’m looking for help with deep learning models for cybersecurity.
 - 💬 Ask me about anything related to cybersecurity and ethical hacking.
-- 📫 How to reach me: **dcr7juilland@duck.com**
+- 📫 How to reach me: **juanfelipemunozcuartas@duck.com**
 - 📄 Know more about my experiences: [MY RESUME](https://www.canva.com/design/DAFJOuoQHyM/F3akY9g_DhGxY4udIJKIKg/edit?utm_content=DAFJOuoQHyM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - ⚡ Fun fact: I enjoy participating in CTF competitions during my free time.
 
