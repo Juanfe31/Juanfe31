@@ -1,20 +1,5 @@
 ## 👋
 
-<!--
-**Juanfe31/Juanfe31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi! I'm Juan Felipe Muñoz Cuartas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -31,14 +16,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true" width="250">
 
-- 🔭 I’m currently working on cybersecurity engineer and contribute for a team in Forensic, Blue Team and Red Team.
+- 🔭 I’m currently in the last seme.
 - 🌱 I’m currently learning advanced cryptographic techniques.
-- 👯 I’m looking to collaborate on open source security projects.
-- 🤔 I’m looking for help with deep learning models for cybersecurity.
-- 💬 Ask me about anything related to cybersecurity and ethical hacking.
-- 📫 How to reach me: **juanfelipemunozcuartas@duck.com**
-- 📄 Know more about my experiences: [MY RESUME](https://www.canva.com/design/DAFJOuoQHyM/F3akY9g_DhGxY4udIJKIKg/edit?utm_content=DAFJOuoQHyM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- ⚡ Fun fact: I enjoy participating in CTF competitions during my free time.
+- 📫 How to reach me: **juanfelipemunozcuartas@gmail.com**
+- 📄 Know more about my experiences: [MY RESUME](https://www.canva.com/design/DAGGaHA11lc/UWn_TEjQzd3dGwZ5gEmzJw/edit?utm_content=DAGGaHA11lc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br clear="right"/>
 
@@ -54,6 +35,7 @@ Here are some ideas to get you started:
 ## 🔧 Technologies & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Wireshark-1671AB.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Metasploit-E6331A.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
@@ -66,26 +48,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Hashcat-20B2AA.svg?style=for-the-badge&logoColor=white" alt="Hashcat" />
   <img src="https://img.shields.io/badge/Malware_Analysis-FFFF00.svg?style=for-the-badge&logoColor=black" alt="Malware Analysis" />
   <img src="https://img.shields.io/badge/Intrusion_Detection_Systems-00FF00.svg?style=for-the-badge&logoColor=white" alt="IDS" />
-</p>
-
-## 🎓 Cybersecurity Certifications
-
-- **Certified Ethical Hacker (CEH)**
-- **DragonJar Cybersecurity Ofensive (DSIO)**
-- **Ethical Hacking Cetified Associate (EHCA)**
-- **Cybersecurity Certified Expert (CSCE)**
-- **ISO 27001 Intern Auditor**
-- **Security Operation System - SOC (C3SA)**
-- **Lead Cybersecurity Professional Certified (LCSPC)**
-- **Cyber Forensics Certified Associate (CFCA)**
-- **Professional Developer Globant & Mercado Libre**
-- **Master Cybersecurity (CISO)**
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/JuanFe31">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Juanfe31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juanfe31&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
