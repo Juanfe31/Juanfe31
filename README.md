@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:dcr7juilland@duck.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/DR7-ZOMBIE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/JuanFe31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/dennis-patrick-j-a3362620b"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/573215085296"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/DR7-ZOMBIE">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DR7-ZOMBIE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DR7-ZOMBIE&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/JuanFe31">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Juanfe31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juanfe31&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
