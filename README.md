@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=DennisJuilland&label=Profile%20views&color=0047AB&style=flat-square" alt="DennisJuilland" /> 
+  <img src="https://komarev.com/ghpvc/?username=Juanfe31&label=Profile%20views&color=0047AB&style=flat-square" alt="Juanfe31" /> 
 </p>
 
 ## 🌐 About Me
