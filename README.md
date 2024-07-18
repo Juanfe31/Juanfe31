@@ -3,7 +3,7 @@
 <h1 align="center">Hi! I'm Juan Felipe Muñoz Cuartas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack-Developer;Systems+Engineering+Student;IA and Data Engineering in Python;Competitive Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack-Developer;Systems+Engineering+Student;IA+and+Data+Engineering;Competitive+Programmer" />
 </p>
 
 <p align="center"> 
@@ -16,17 +16,18 @@
 
 <img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true" width="250">
 
-- 🔭 I’m currently in the last seme.
-- 🌱 I’m currently learning advanced cryptographic techniques.
+- 🎓 I’m currently in the last semester of System and Computing Engineering in Universidad EIA (Envigado, Colombia).
+- ⚡ I enjoy both developing and data.
+- 🌱 I’m currently learning about basic cybersecurity.
 - 📫 How to reach me: **juanfelipemunozcuartas@gmail.com**
-- 📄 Know more about my experiences: [MY RESUME](https://www.canva.com/design/DAGGaHA11lc/UWn_TEjQzd3dGwZ5gEmzJw/edit?utm_content=DAGGaHA11lc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know more about my experiences: [My Resume in Spanish](https://www.canva.com/design/DAGGaHA11lc/UWn_TEjQzd3dGwZ5gEmzJw/edit?utm_content=DAGGaHA11lc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br clear="right"/>
 
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:juanfelipemunozcuartas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:juanfelipemunozcuartas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/JuanFe31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/juan-felipe-mu%C3%B1oz-8b1723274/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.link/nye329"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
@@ -35,7 +36,7 @@
 ## 🌍 Web
 
 <p align="center">
-<img src="https://img.shields.io/badge/Html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
+<img src="https://img.shields.io/badge/Html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" style="pointer-events: none;"/>
 <img src="https://img.shields.io/badge/Css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
