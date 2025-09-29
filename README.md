@@ -31,7 +31,7 @@
 
 # 💪 Skills
 
-<p align="center">
+<p align="center" style="pointer-events: none;>
 <img src="https://img.shields.io/badge/Html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
 <img src="https://img.shields.io/badge/Css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
