@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Nest_JS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest (JS)" />
 <img src="https://img.shields.io/badge/Springboot-JAVA-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot (JAVA)" />
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQLServer-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer" />
+<img src="https://img.shields.io/badge/SQLServer-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PowerBi-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBi" />
 <img src="https://img.shields.io/badge/PowerApps-742774.svg?style=for-the-badge&logo=power-apps&logoColor=white" alt="PowerApps" />
