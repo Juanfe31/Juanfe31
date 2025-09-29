@@ -18,7 +18,7 @@
 - 🎓 I’m a System and Computing Engineer from Universidad EIA (Envigado, Colombia).
 - ⚡ I enjoy developing, data and cloud.
 - 📫 How to reach me: **juanfelipemunozcuartas@gmail.com**
-- 📄 Know more about my experiences: [My Resume in Spanish](https://www.canva.com/design/DAGGaHA11lc/UWn_TEjQzd3dGwZ5gEmzJw/edit?utm_content=DAGGaHA11lc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know more about my experiences:[My Resume in English](https://drive.google.com/file/d/1_yrUSqozChkgqUXih7sFV1lxQBsELryi/view?usp=sharing) [My Resume in Spanish](https://drive.google.com/file/d/1e_IiQ1oHj0_hX0O0bmrez00hAy-fp_Zl/view?usp=sharing)
 
 <br clear="right"/>
 
