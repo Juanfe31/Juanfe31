@@ -14,9 +14,8 @@
 
 <img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true" width="250">
 
-- 🎓 I’m currently in the last semester of System and Computing Engineering in Universidad EIA (Envigado, Colombia).
-- ⚡ I enjoy both developing and data.
-- 🌱 I’m currently learning about basic cybersecurity.
+- 🎓 I’m a System and Computing Engineer from Universidad EIA (Envigado, Colombia).
+- ⚡ I enjoy developing, data and cloud.
 - 📫 How to reach me: **juanfelipemunozcuartas@gmail.com**
 - 📄 Know more about my experiences: [My Resume in Spanish](https://www.canva.com/design/DAGGaHA11lc/UWn_TEjQzd3dGwZ5gEmzJw/edit?utm_content=DAGGaHA11lc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
