@@ -11,9 +11,9 @@
 
 ## 🌐 About Me
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
 
-<img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true" width="150">
+<img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true">
 
 - 🎓 I’m a System and Computing Engineer from Universidad EIA (Envigado, Colombia).
 - ⚡ I enjoy developing, data and cloud.
