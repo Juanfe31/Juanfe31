@@ -31,8 +31,6 @@
 
 # 💪 Skills
 
-## 🌍 Web
-
 <p align="center">
 <img src="https://img.shields.io/badge/Html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
 <img src="https://img.shields.io/badge/Css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css"  />
@@ -42,22 +40,9 @@
 <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logoColor=white" alt="Axios" />
 <img src="https://img.shields.io/badge/Nest_JS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest (JS)" />
 <img src="https://img.shields.io/badge/Springboot-JAVA-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot (JAVA)" />
-</p>
-
-## 💻 SQL
-
-<p align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/SQLServer-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer" />
-</p>
-
-## 🤖 Datos e IA
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-## ⚡ Power Platform
-<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PowerBi-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBi" />
 <img src="https://img.shields.io/badge/PowerApps-742774.svg?style=for-the-badge&logo=power-apps&logoColor=white" alt="PowerApps" />
 <img src="https://img.shields.io/badge/PowerAutomate-0089D6.svg?style=for-the-badge&logo=power-automate&logoColor=white" alt="PowerAutomate" />
