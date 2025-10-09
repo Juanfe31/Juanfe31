@@ -11,7 +11,7 @@
 
 ## 🌐 About Me
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="20%" align="right" />
 
 <img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true">
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot (Java)" />
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
